@@ -1,0 +1,35 @@
+{
+  "Java": {
+    "Stack Lead": "Odohi David",
+    "Stack Associate": "Gadibia Oghenetevwodaro",
+    "Members": 18,
+    "Pods":4,
+    "Pod1":[
+      "Adebeshin Daniel Itunu",
+      "Okezie Okechukwu samuel",
+      "Ibeh Chukwuebuka Emmanuel",
+      "Solomon Oluwaseun Odewale"
+    ],
+    "Pod2":[
+      "Echendu, Victor Ikenna",
+      "Kenechukwu Okafor",
+      "Osereme Okoduwa",
+      "David Oparanti",
+      "Muyideen Labaika"
+    ],
+    "Pod3":[
+      "Omolade Omololu",
+      "Longe Obrien",
+      "Oche Ejeh",
+      "Emmanuel Chigere",
+      "Zurum Ogbonda"
+    ],
+    "Pod4":[
+      "Dickson Prince",
+      "Odira Eze",
+      "Isaiah IfeanyiChukwu",
+      "Mondris Okundolor",
+      "Olatunji Oye"
+    ]
+  }
+}
