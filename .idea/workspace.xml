@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5ed1980-2c15-4e55-87bf-c9ea456fc279" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/decagon/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/decagon/ClientMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/decagon/RequestThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/decagon/WebServerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gYS9Plo0t20EcoI7pgPtiSyp2y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.decagon" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in web-server (2)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.decagon.Main" />
+      <module name="web-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.decagon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in web-server (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in web-server (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in web-server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestThreadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.decagon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.decagon" />
+      <option name="MAIN_CLASS_NAME" value="com.decagon.RequestThreadTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in web-server (2)" />
+        <item itemvalue="JUnit.All in web-server (1)" />
+        <item itemvalue="JUnit.RequestThreadTest" />
+        <item itemvalue="JUnit.All in web-server" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5ed1980-2c15-4e55-87bf-c9ea456fc279" name="Default Changelist" comment="" />
+      <created>1598289883680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598289883680</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="23" width="1024" height="821" key="#Project_Structure" timestamp="1598290152822">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="208" y="23" width="1024" height="821" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1598290152822" />
+    <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598394514853">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1598394514853" />
+    <state x="533" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1598378876942">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="533" y="156" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821@0.23.1440.821" timestamp="1598378876942" />
+    <state width="1356" height="194" key="GridCell.Tab.0.bottom" timestamp="1598399675445">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1356" height="194" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1598399675445" />
+    <state width="1356" height="194" key="GridCell.Tab.0.center" timestamp="1598399675436">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1356" height="194" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1598399675436" />
+    <state width="1356" height="194" key="GridCell.Tab.0.left" timestamp="1598399675435">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1356" height="194" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1598399675435" />
+    <state width="1356" height="194" key="GridCell.Tab.0.right" timestamp="1598399675438">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1356" height="194" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1598399675438" />
+    <state width="1356" height="241" key="GridCell.Tab.1.bottom" timestamp="1598397667148">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1356" height="241" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1598397667148" />
+    <state width="1356" height="241" key="GridCell.Tab.1.center" timestamp="1598397667146">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1356" height="241" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1598397667146" />
+    <state width="1356" height="241" key="GridCell.Tab.1.left" timestamp="1598397667145">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1356" height="241" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1598397667145" />
+    <state width="1356" height="241" key="GridCell.Tab.1.right" timestamp="1598397667147">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1356" height="241" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1598397667147" />
+    <state x="258" y="95" key="Maven.ArtifactSearchDialog" timestamp="1598393887885">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="258" y="95" key="Maven.ArtifactSearchDialog/0.23.1440.821@0.23.1440.821" timestamp="1598393887885" />
+    <state x="251" y="23" width="1024" height="821" key="SettingsEditor" timestamp="1598290702611">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="251" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1598290419841" />
+    <state x="251" y="23" width="1024" height="821" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1598290702611" />
+    <state x="490" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598379423384">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="490" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.821@0.23.1440.821" timestamp="1598379423384" />
+  </component>
+</project>
