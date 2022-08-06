@@ -1,4 +1,5 @@
-// RequestThread.java: A class that handles all individual client requests and returns a response
+// RequestThread.java:
+
 
 package com.decagon;
 
@@ -12,6 +13,8 @@ public class RequestThread implements Runnable {
 
     public RequestThread(Socket request) {
         this.request = request;
+
+        // GET /jso HTTP/1.1
     }
 
     @Override
@@ -67,7 +70,9 @@ public class RequestThread implements Runnable {
      * @return
      */
     private String getResource(String line) {
-        return line.split(" ")[1];
+        String resourceRequested = line.split(" ")[1];
+        System.out.println(resourceRequested);
+        return resourceRequested;
     }
 
     /**
@@ -87,6 +92,15 @@ public class RequestThread implements Runnable {
      */
     private Path setPath (String resource) {
         if (isJson(resource)) return Paths.get("src/main/resources/response.json");
+        else if(resource.equals("/PodA")) return Paths.get("src/main/resources/PodA.html");
+        else if(resource.equals("/PodB")) return Paths.get("src/main/resources/PodB.html");
+        else if(resource.equals("/PodC")) return Paths.get("src/main/resources/PodC.html");
+        else if(resource.equals("/PodD")) return Paths.get("src/main/resources/PodD.html");
+
+        else if(resource.equals("/PodA/json")) return Paths.get("src/main/resources/PodA.json");
+        else if(resource.equals("/PodB/json")) return Paths.get("src/main/resources/PodB.json");
+        else if(resource.equals("/PodC/json")) return Paths.get("src/main/resources/PodC.json");
+        else if(resource.equals("/PodD/json")) return Paths.get("src/main/resources/PodD.json");
         else if (!resource.equals("/")) return Paths.get("src/main/resources/notfound.html");
         return Paths.get("src/main/resources/index.html");
     }
@@ -98,7 +112,10 @@ public class RequestThread implements Runnable {
      * @return
      */
     private boolean isResourceFound(String resource) {
-        return resource.equals("/") || resource.equals("/json");
+        return resource.equals("/") || resource.equals("/json") ||  resource.equals("/PodA")
+                || resource.equals("/PodB") || resource.equals("/PodC") || resource.equals("/PodD")
+                || resource.equals("/PodA/json") || resource.equals("/PodB/json")
+                || resource.equals("/PodC/json") || resource.equals("/PodD/json")    ;
     }
 
     /**

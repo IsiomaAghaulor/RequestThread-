@@ -1,35 +1,41 @@
 {
   "Java": {
-    "Stack Lead": "Odohi David",
-    "Stack Associate": "Gadibia Oghenetevwodaro",
+    "Stack Lead": "Osereme Okoduwa",
+    "Stack Associates": [
+      "Hope",
+      "Stephen",
+      "Innocent",
+      "Ifeoluwa"
+    ],
     "Members": 18,
     "Pods":4,
-    "Pod1":[
-      "Adebeshin Daniel Itunu",
-      "Okezie Okechukwu samuel",
-      "Ibeh Chukwuebuka Emmanuel",
-      "Solomon Oluwaseun Odewale"
+    "PodA":[
+      "Wilfred Ighalo",
+      "Ugochukwu Ezemegbu",
+      "Ikenna Uche",
+      "Lawal Abideen Abayomi",
+      "Isioma Aghaulor"
     ],
-    "Pod2":[
-      "Echendu, Victor Ikenna",
-      "Kenechukwu Okafor",
-      "Osereme Okoduwa",
-      "David Oparanti",
-      "Muyideen Labaika"
+    "PodB":[
+      "Chinedu Anazodo",
+      "Adekunle Adegoke",
+      "Abisayo Abiodun",
+      "Sinebi Innazo",
+      "Chisom Obidike"
     ],
-    "Pod3":[
-      "Omolade Omololu",
-      "Longe Obrien",
-      "Oche Ejeh",
-      "Emmanuel Chigere",
-      "Zurum Ogbonda"
+    "PodC":[
+      "Stanley Nkannebe",
+      "Almusta Tukur Umar",
+      "Ebube Chineke",
+      "Dennis Okoye",
+      "Success Raphael"
     ],
-    "Pod4":[
-      "Dickson Prince",
-      "Odira Eze",
-      "Isaiah IfeanyiChukwu",
-      "Mondris Okundolor",
-      "Olatunji Oye"
+    "PodD":[
+      "Damilola Oluwole",
+      "Darlington Olelewe",
+      "Loveth Ukeachusim",
+      "Johnny Olugbodi",
+      "Chibueze Nwajiobi"
     ]
   }
 }
